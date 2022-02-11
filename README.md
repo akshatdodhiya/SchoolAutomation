@@ -17,7 +17,7 @@ An Automation program that joins your classes from your school id without you ha
 
 Step 1: Clone the repository:
 
-```git clone git_link```
+```git clone https://github.com/akshatdodhiya/SchoolAutomation.git```
 
 Step 2: Install the dependencies:
 
