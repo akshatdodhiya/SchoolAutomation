@@ -3,8 +3,6 @@
 # Automate School Meetings
 An Automation program that joins your classes from your school id without you hassling about it.
 
-![Thumbnail](https://github.com/akshatdodhiya/SchoolAutomation/blob/main/Images/Thumbnail.jpeg)
-
 ## Features:
 * Once logged in is permanent, no need to log in to websites everytime you run the program
 * Joins class automatically on its time
